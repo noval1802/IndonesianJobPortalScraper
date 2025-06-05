@@ -2,3 +2,6 @@ requests
 beautifulsoup4
 pandas
 googlesearch-python
+aiohttp
+nest_asyncio
+beautifulsoup4
