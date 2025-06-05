@@ -1,4 +1,4 @@
-# 🇮🇩 Indonesian Job Portal Scraper
+# Indonesian Job Portal Scraper
 
 Script Python untuk **mencari dan meng-crawl halaman karier** (`career`, `karir`, `jobs`, dll.) dari berbagai domain menggunakan teknik **Google Dorking**, **Serper API**, dan **async web crawling**.
 
@@ -86,4 +86,4 @@ MIT License
 
 ---
 
-> Dibuat oleh [@noval1802](https://github.com/noval1802) untuk eksplorasi data lowongan kerja di Indonesia 🇮🇩
+> Dibuat oleh [@noval1802](https://github.com/noval1802) untuk eksplorasi data lowongan kerja di Indonesia
